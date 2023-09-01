@@ -1,3 +1,25 @@
 <resources>
-    <string name="app_name">RestAndroidExample</string>
+    <string name="app_name">MobileAndroidTest</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="str_get_user_information">Obtener información del usuario</string>
+    <string name="str_get">Obtener</string>
+    <string name="str_retry">Reintentar</string>
+    <string name="str_no_internet_image">NO INTERNET CONNECTION IMAGE</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="str_information">Información</string>
+    <string name="str_page">Página:</string>
+    <string name="str_version">Versión:</string>
+    <string name="str_results">Resultados:</string>
+    <string name="str_name">Nombre:</string>
+    <string name="str_age">Edad:</string>
+    <string name="str_gerden">Genero:</string>
+    <string name="str_user_pic">FOTO DE USUARIO</string>
+    <string name="str_Address">Calle:</string>
+    <string name="str_ciudad">Ciudad:</string>
+    <string name="str_state">Estado:</string>
+    <string name="str_country">País:</string>
+    <string name="str_zip_code">Código Postal:</string>
+    <string name="str_email">e-mail</string>
+    <string name="str_view_details">Ver detalles</string>
 </resources>

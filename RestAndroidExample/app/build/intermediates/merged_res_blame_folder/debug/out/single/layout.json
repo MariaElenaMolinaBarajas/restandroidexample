@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.restandroidexample.app-mergeDebugResources-48:/layout/fragment_user_details.xml",
+        "source": "com.example.restandroidexample.app-main-51:/layout/fragment_user_details.xml"
+    },
+    {
+        "merged": "/Users/mariaelenamolinabarajas/.gradle/daemon/8.0/com.example.restandroidexample.app-mergeDebugResources-48:/layout/fragment_user_information.xml",
+        "source": "/Users/mariaelenamolinabarajas/.gradle/daemon/8.0/com.example.restandroidexample.app-main-51:/layout/fragment_user_information.xml"
+    },
+    {
+        "merged": "/Users/mariaelenamolinabarajas/.gradle/daemon/8.0/com.example.restandroidexample.app-mergeDebugResources-48:/layout/fragment_home.xml",
+        "source": "/Users/mariaelenamolinabarajas/.gradle/daemon/8.0/com.example.restandroidexample.app-main-51:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/mariaelenamolinabarajas/.gradle/daemon/8.0/com.example.restandroidexample.app-mergeDebugResources-48:/layout/fragment_no_internet_connection.xml",
+        "source": "/Users/mariaelenamolinabarajas/.gradle/daemon/8.0/com.example.restandroidexample.app-main-51:/layout/fragment_no_internet_connection.xml"
+    },
+    {
+        "merged": "/Users/mariaelenamolinabarajas/.gradle/daemon/8.0/com.example.restandroidexample.app-mergeDebugResources-48:/layout/activity_main.xml",
+        "source": "/Users/mariaelenamolinabarajas/.gradle/daemon/8.0/com.example.restandroidexample.app-main-51:/layout/activity_main.xml"
+    }
+]

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">MobileAndroidTest</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="str_Address">Calle:</string>
+    <string name="str_age">Edad:</string>
+    <string name="str_ciudad">Ciudad:</string>
+    <string name="str_country">País:</string>
+    <string name="str_email">e-mail</string>
+    <string name="str_gerden">Genero:</string>
+    <string name="str_get">Obtener</string>
+    <string name="str_get_user_information">Obtener información del usuario</string>
+    <string name="str_information">Información</string>
+    <string name="str_name">Nombre:</string>
+    <string name="str_no_internet_image">NO INTERNET CONNECTION IMAGE</string>
+    <string name="str_page">Página:</string>
+    <string name="str_results">Resultados:</string>
+    <string name="str_retry">Reintentar</string>
+    <string name="str_state">Estado:</string>
+    <string name="str_user_pic">FOTO DE USUARIO</string>
+    <string name="str_version">Versión:</string>
+    <string name="str_view_details">Ver detalles</string>
+    <string name="str_zip_code">Código Postal:</string>
+    <style name="Base.Theme.RestAndroidExample" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Subtitles" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">#154360</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:layout_marginEnd">15dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:paddingTop">5dp</item>
+
+    </style>
+    <style name="Theme.RestAndroidExample" parent="Base.Theme.RestAndroidExample"/>
+    <style name="Values" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">#1F618D</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+</resources>

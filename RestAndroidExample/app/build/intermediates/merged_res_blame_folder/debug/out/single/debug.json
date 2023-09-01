@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "/Users/mariaelenamolinabarajas/.gradle/daemon/8.0/com.example.restandroidexample.app-merged_res-49:/drawable_img_visualize.png.flat",
+        "source": "/Users/mariaelenamolinabarajas/.gradle/daemon/8.0/com.example.restandroidexample.app-main-51:/drawable/img_visualize.png"
+    },
+    {
+        "merged": "/Users/mariaelenamolinabarajas/.gradle/daemon/8.0/com.example.restandroidexample.app-merged_res-49:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/mariaelenamolinabarajas/.gradle/daemon/8.0/com.example.restandroidexample.app-main-51:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/mariaelenamolinabarajas/.gradle/daemon/8.0/com.example.restandroidexample.app-merged_res-49:/layout_activity_main.xml.flat",
+        "source": "/Users/mariaelenamolinabarajas/.gradle/daemon/8.0/com.example.restandroidexample.app-main-51:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.restandroidexample.app-merged_res-49:/navigation_nav_graph.xml.flat",
+        "source": "com.example.restandroidexample.app-main-51:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "/Users/mariaelenamolinabarajas/.gradle/daemon/8.0/com.example.restandroidexample.app-merged_res-49:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/mariaelenamolinabarajas/.gradle/daemon/8.0/com.example.restandroidexample.app-main-51:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/mariaelenamolinabarajas/.gradle/daemon/8.0/com.example.restandroidexample.app-merged_res-49:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/mariaelenamolinabarajas/.gradle/daemon/8.0/com.example.restandroidexample.app-main-51:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/mariaelenamolinabarajas/.gradle/daemon/8.0/com.example.restandroidexample.app-merged_res-49:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/mariaelenamolinabarajas/.gradle/daemon/8.0/com.example.restandroidexample.app-main-51:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/mariaelenamolinabarajas/.gradle/daemon/8.0/com.example.restandroidexample.app-merged_res-49:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/mariaelenamolinabarajas/.gradle/daemon/8.0/com.example.restandroidexample.app-main-51:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/mariaelenamolinabarajas/.gradle/daemon/8.0/com.example.restandroidexample.app-merged_res-49:/layout_fragment_no_internet_connection.xml.flat",
+        "source": "/Users/mariaelenamolinabarajas/.gradle/daemon/8.0/com.example.restandroidexample.app-main-51:/layout/fragment_no_internet_connection.xml"
+    },
+    {
+        "merged": "/Users/mariaelenamolinabarajas/.gradle/daemon/8.0/com.example.restandroidexample.app-merged_res-49:/layout_user_adapter.xml.flat",
+        "source": "/Users/mariaelenamolinabarajas/.gradle/daemon/8.0/com.example.restandroidexample.app-main-51:/layout/user_adapter.xml"
+    },
+    {
+        "merged": "/Users/mariaelenamolinabarajas/.gradle/daemon/8.0/com.example.restandroidexample.app-merged_res-49:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/mariaelenamolinabarajas/.gradle/daemon/8.0/com.example.restandroidexample.app-main-51:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/mariaelenamolinabarajas/.gradle/daemon/8.0/com.example.restandroidexample.app-merged_res-49:/layout_fragment_home.xml.flat",
+        "source": "/Users/mariaelenamolinabarajas/.gradle/daemon/8.0/com.example.restandroidexample.app-main-51:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/mariaelenamolinabarajas/.gradle/daemon/8.0/com.example.restandroidexample.app-merged_res-49:/xml_backup_rules.xml.flat",
+        "source": "/Users/mariaelenamolinabarajas/.gradle/daemon/8.0/com.example.restandroidexample.app-main-51:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/mariaelenamolinabarajas/.gradle/daemon/8.0/com.example.restandroidexample.app-merged_res-49:/drawable_img_no_internet.png.flat",
+        "source": "/Users/mariaelenamolinabarajas/.gradle/daemon/8.0/com.example.restandroidexample.app-main-51:/drawable/img_no_internet.png"
+    },
+    {
+        "merged": "/Users/mariaelenamolinabarajas/.gradle/daemon/8.0/com.example.restandroidexample.app-merged_res-49:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/mariaelenamolinabarajas/.gradle/daemon/8.0/com.example.restandroidexample.app-main-51:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/mariaelenamolinabarajas/.gradle/daemon/8.0/com.example.restandroidexample.app-merged_res-49:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/mariaelenamolinabarajas/.gradle/daemon/8.0/com.example.restandroidexample.app-main-51:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/mariaelenamolinabarajas/.gradle/daemon/8.0/com.example.restandroidexample.app-merged_res-49:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/mariaelenamolinabarajas/.gradle/daemon/8.0/com.example.restandroidexample.app-main-51:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/mariaelenamolinabarajas/.gradle/daemon/8.0/com.example.restandroidexample.app-merged_res-49:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/mariaelenamolinabarajas/.gradle/daemon/8.0/com.example.restandroidexample.app-main-51:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/mariaelenamolinabarajas/.gradle/daemon/8.0/com.example.restandroidexample.app-merged_res-49:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/mariaelenamolinabarajas/.gradle/daemon/8.0/com.example.restandroidexample.app-main-51:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/mariaelenamolinabarajas/.gradle/daemon/8.0/com.example.restandroidexample.app-merged_res-49:/navigation_nav_graph.xml.flat",
+        "source": "/Users/mariaelenamolinabarajas/.gradle/daemon/8.0/com.example.restandroidexample.app-main-51:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "/Users/mariaelenamolinabarajas/.gradle/daemon/8.0/com.example.restandroidexample.app-merged_res-49:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/mariaelenamolinabarajas/.gradle/daemon/8.0/com.example.restandroidexample.app-main-51:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/mariaelenamolinabarajas/.gradle/daemon/8.0/com.example.restandroidexample.app-merged_res-49:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/mariaelenamolinabarajas/.gradle/daemon/8.0/com.example.restandroidexample.app-main-51:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/mariaelenamolinabarajas/.gradle/daemon/8.0/com.example.restandroidexample.app-merged_res-49:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/mariaelenamolinabarajas/.gradle/daemon/8.0/com.example.restandroidexample.app-main-51:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/mariaelenamolinabarajas/.gradle/daemon/8.0/com.example.restandroidexample.app-merged_res-49:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/mariaelenamolinabarajas/.gradle/daemon/8.0/com.example.restandroidexample.app-main-51:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.restandroidexample.app-merged_res-49:/layout_fragment_user_details.xml.flat",
+        "source": "com.example.restandroidexample.app-main-51:/layout/fragment_user_details.xml"
+    },
+    {
+        "merged": "/Users/mariaelenamolinabarajas/.gradle/daemon/8.0/com.example.restandroidexample.app-merged_res-49:/layout_fragment_user_information.xml.flat",
+        "source": "/Users/mariaelenamolinabarajas/.gradle/daemon/8.0/com.example.restandroidexample.app-main-51:/layout/fragment_user_information.xml"
+    }
+]
